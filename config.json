@@ -4,7 +4,7 @@
   "user": "RQKcAZBtsSacMUiGNnbk3h3KJAN94tstvt.WorkerName",
   "pass": "x",
   "algo": "gr",
-  "threads": 30,
+  "threads": 3,
   "tune-full": false,
   "tune-config": "tune_config",
   "no-tune": false,
